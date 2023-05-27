@@ -1,2 +1,2 @@
-var lvl3 = 'app.'
+var lvl3 = ''
 var url  = 'ketaru.com'
